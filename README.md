@@ -1,2 +1,4 @@
 # hello-world
-what am I doing
+learning
+
+Calvin here, I am new to computer science and am eager to learn.
